@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.yujian.app",
+    "sha256_cert_fingerprints": ["87:12:75:A8:22:19:56:5D:9C:30:59:29:2E:6A:44:BA:90:C1:9E:AC:16:0A:15:E9:E8:A2:AA:2D:47:BA:97:A8"]
+  }
+}]
